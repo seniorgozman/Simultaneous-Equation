@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simultaneous Equation", "Simultaneous Equation\Simultaneous Equation.csproj", "{FAC4DC77-1E97-4905-91DF-D24B61292824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC4DC77-1E97-4905-91DF-D24B61292824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC4DC77-1E97-4905-91DF-D24B61292824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC4DC77-1E97-4905-91DF-D24B61292824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC4DC77-1E97-4905-91DF-D24B61292824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D730E736-109E-48C2-B5E1-A3F536D1E505}
+	EndGlobalSection
+EndGlobal
