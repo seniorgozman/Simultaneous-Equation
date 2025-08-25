@@ -18,6 +18,7 @@
             var ma = int.Parse (Console.ReadLine());
             var man = int.Parse (Console.ReadLine());
             var sen = int.Parse (Console.ReadLine());
+            // The Makaty wants to test my code..... Extra extra
             // Chelse is the best
             var chi = man * eq;
             var doz = man * go;
